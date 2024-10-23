@@ -26,17 +26,17 @@
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-AmazonWebServices-05122A?style=plastic&logo=AmazonWebServices&color=6e6f6f) 
-![Bootstrap](https://img.shields.io/badge/-GoogleCloud-05122A?style=plastic&logo=GoogleCloud&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-GoogleCloud-05122A?style=plastic&logo=GoogleCloud&color=6e6f6f) \
 ![Bootstrap](https://img.shields.io/badge/-Terraform-05122A?style=plastic&logo=Terraform&color=6e6f6f) 
-![Bootstrap](https://img.shields.io/badge/-Pulumi-05122A?style=plastic&logo=Pulumi&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-Pulumi-05122A?style=plastic&logo=Pulumi&color=6e6f6f) \
 ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=plastic&logo=Docker&color=6e6f6f) 
-![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=plastic&logo=Kubernetes&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=plastic&logo=Kubernetes&color=6e6f6f) \
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=Python&color=6e6f6f) 
-![Bootstrap](https://img.shields.io/badge/-Rust-05122A?style=plastic&logo=Rust&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-Rust-05122A?style=plastic&logo=Rust&color=6e6f6f) \
 ![Bootstrap](https://img.shields.io/badge/-Gitlab-05122A?style=plastic&logo=Gitlab&color=6e6f6f) 
 ![Bootstrap](https://img.shields.io/badge/-Github-05122A?style=plastic&logo=Github&color=6e6f6f) 
 ![Bootstrap](https://img.shields.io/badge/-Github%20Actions-05122A?style=plastic&logo=Github-Actions&color=6e6f6f) 
-![Bootstrap](https://img.shields.io/badge/-CircleCI-05122A?style=plastic&logo=CircleCI&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-CircleCI-05122A?style=plastic&logo=CircleCI&color=6e6f6f) \
 ![Bootstrap](https://img.shields.io/badge/-FastAPI-05122A?style=plastic&logo=FastAPI&color=6e6f6f) 
 ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=plastic&logo=Django&color=6e6f6f)
 
