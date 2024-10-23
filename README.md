@@ -27,8 +27,9 @@
 
 ![Bootstrap](https://img.shields.io/badge/-AmazonWebServices-05122A?style=flat-square&logo=AmazonWebServices&color=353535) ![Bootstrap](https://img.shields.io/badge/-GoogleCloudPlatform-05122A?style=flat-square&logo=GoogleCloudPlatform&color=353535) ![Bootstrap](https://img.shields.io/badge/-Terraform-05122A?style=flat-square&logo=Terraform&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pulumi-05122A?style=flat-square&logo=Pulumi&color=353535) ![Bootstrap](https://img.shields.io/badge/-CloudFormation-05122A?style=flat-square&logo=CloudFormation&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=Rust&color=353535) ![Bootstrap](https://img.shields.io/badge/-Gitlab-05122A?style=flat-square&logo=Gitlab&color=353535) ![Bootstrap](https://img.shields.io/badge/-Github-05122A?style=flat-square&logo=Github&color=353535) ![Bootstrap](https://img.shields.io/badge/-Github%20Actions-05122A?style=flat-square&logo=Github-Actions&color=353535) ![Bootstrap](https://img.shields.io/badge/-CircleCI-05122A?style=flat-square&logo=CircleCI&color=353535) ![Bootstrap](https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=FastAPI&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535)
 
+/*
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fegmorte&show_icons=true&locale=en&layout=compact" alt="fegmorte" />
   <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=fegmorte&" alt="fegmorte" />
 </div>
-
+*/
