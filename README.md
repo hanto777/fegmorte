@@ -25,7 +25,20 @@
 - DevXP
 ### ⚙️ Tech Stack
 
-![Bootstrap](https://img.shields.io/badge/-AmazonWebServices-05122A?style=flat-square&logo=AmazonWebServices&color=353535) ![Bootstrap](https://img.shields.io/badge/-GoogleCloudPlatform-05122A?style=flat-square&logo=GoogleCloudPlatform&color=353535) ![Bootstrap](https://img.shields.io/badge/-Terraform-05122A?style=flat-square&logo=Terraform&color=353535) ![Bootstrap](https://img.shields.io/badge/-Pulumi-05122A?style=flat-square&logo=Pulumi&color=353535) ![Bootstrap](https://img.shields.io/badge/-CloudFormation-05122A?style=flat-square&logo=CloudFormation&color=353535) ![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=flat-square&logo=Docker&color=353535) ![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=flat-square&logo=Kubernetes&color=353535) ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat-square&logo=Python&color=353535) ![Bootstrap](https://img.shields.io/badge/-Rust-05122A?style=flat-square&logo=Rust&color=353535) ![Bootstrap](https://img.shields.io/badge/-Gitlab-05122A?style=flat-square&logo=Gitlab&color=353535) ![Bootstrap](https://img.shields.io/badge/-Github-05122A?style=flat-square&logo=Github&color=353535) ![Bootstrap](https://img.shields.io/badge/-Github%20Actions-05122A?style=flat-square&logo=Github-Actions&color=353535) ![Bootstrap](https://img.shields.io/badge/-CircleCI-05122A?style=flat-square&logo=CircleCI&color=353535) ![Bootstrap](https://img.shields.io/badge/-FastAPI-05122A?style=flat-square&logo=FastAPI&color=353535) ![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=flat-square&logo=Django&color=353535)
+![Bootstrap](https://img.shields.io/badge/-AmazonWebServices-05122A?style=plastic&logo=AmazonWebServices&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-GoogleCloud-05122A?style=plastic&logo=GoogleCloud&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-Terraform-05122A?style=plastic&logo=Terraform&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-Pulumi-05122A?style=plastic&logo=Pulumi&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-Docker-05122A?style=plastic&logo=Docker&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-Kubernetes-05122A?style=plastic&logo=Kubernetes&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=plastic&logo=Python&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-Rust-05122A?style=plastic&logo=Rust&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-Gitlab-05122A?style=plastic&logo=Gitlab&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-Github-05122A?style=plastic&logo=Github&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-Github%20Actions-05122A?style=plastic&logo=Github-Actions&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-CircleCI-05122A?style=plastic&logo=CircleCI&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-FastAPI-05122A?style=plastic&logo=FastAPI&color=6e6f6f) 
+![Bootstrap](https://img.shields.io/badge/-Django-05122A?style=plastic&logo=Django&color=6e6f6f)
 
 <!--
 <div>
