@@ -9,8 +9,8 @@
 
 [![Github](https://img.shields.io/github/followers/fegmorte?label=Follow&style=social)](https://github.com/fegmorte)
 
-- 💻 Currently Senior DevOps Engineer @ [Zama](https://zama.ai)
-- 👨‍💻 Really passionate about tech, machine learning, blockchain, AI
+- 💻 Senior DevOps Engineer
+- 👨‍💻 Really passionate about tech, infrstructure, machine learning, blockchain, AI
 - 👨‍🎨 Like reading, sketching and painting watercolor
 - 📫 How to reach me: frederic.egmorte@gmail.com
 
