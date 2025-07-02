@@ -13,6 +13,7 @@
 - 👨‍💻 Really passionate about tech, infrstructure, machine learning, blockchain, AI
 - 👨‍🎨 Like reading, sketching and painting watercolor
 - 📫 How to reach me: frederic.egmorte@gmail.com
+- my
 
 
 ### 🖥 Skills
